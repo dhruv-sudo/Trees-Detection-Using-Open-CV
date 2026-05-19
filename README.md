@@ -10,6 +10,8 @@ This project can be applied in multiple real-world scenarios including:
 🚧 Illegal tree cutting detection
 🛰️ Drone and surveillance-based monitoring
 🌍 Sustainability and ecological research
+
+
 🚀 Features
 Real-time tree detection using OpenCV
 Image and video stream support
@@ -17,12 +19,16 @@ AI/ML-based detection approach
 Bounding box visualization around detected trees
 Lightweight and efficient implementation
 Easy integration with surveillance or drone systems
+
+
 🛠️ Technologies Used
 Python
 OpenCV
 NumPy
 Haar Cascade / Custom Trained Model
 Computer Vision Techniques
+
+
 📌 Project Goal
 
 The main goal of this project is to build an intelligent tree detection system that can assist authorities and environmental organizations in monitoring greenery automatically and efficiently. By leveraging AI and computer vision, the project aims to contribute toward sustainable development and smarter environmental management.
@@ -33,6 +39,8 @@ Preprocess frames using OpenCV
 Detect tree-like features using trained detection models
 Identify and mark trees in the frame
 Display detection results in real-time
+
+
 🔮 Future Improvements
 Deep Learning-based tree classification
 Species identification
